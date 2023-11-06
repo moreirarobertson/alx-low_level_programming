@@ -35,7 +35,7 @@ i++;
 }
 if (z == 0)
 return (0);
-return (n);
+return (x);
 }
 /**
 * main - multiplies two numbers
